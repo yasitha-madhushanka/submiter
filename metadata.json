@@ -1,0 +1,6 @@
+{
+  "name": "StockSync Pro - Microstock Auto-Uploader",
+  "description": "Automated batch uploader, AI metadata manager, and multi-agency submission pipeline for Adobe Stock, Shutterstock, BlackBox, Storyblocks, Getty, Pond5, Alamy, and Depositphotos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
